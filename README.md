@@ -3,23 +3,54 @@
 #### 介绍
 BJTU专属PPT模板，仅供学习使用，禁止用于商业用途。
 
-#### PPT001预览图：
+#### 2021年风格
 
-![答辩1](./预览图/PPT001.png)
+##### PPT001：
 
-#### PPT002预览图：
+![](./2021-style/images/PPT001.png)
 
-![答辩2](./预览图/PPT002.png)
 
-#### PPT003预览图：
 
-![答辩3](./预览图/PPT003.png)
+##### PPT002：
 
-#### PPT004预览图：
+![](./2021-style/images/PPT002.png)
 
-![答辩4](./预览图/PPT004.png)
+##### PPT003：
 
-#### PPT005预览图：
+![](./2021-style/images/PPT003.png)
 
-![答辩5](./预览图/PPT005.png)
+##### PPT004：
 
+![](./2021-style/images/PPT004.png)
+
+##### PPT005：
+
+![](./2021-style/images/PPT005.png)
+
+##### PPT006：
+
+![](./2021-style/images/PPT006.png)
+
+##### PPT007：
+
+![](./2021-style/images/PPT007.png)
+
+
+
+#### 2022年风格
+
+##### PPT001-红色系：
+
+![](./2022-style/images/PPT001.png)
+
+##### PPT002-小动物：
+
+![](./2022-style/images/PPT002.png)
+
+##### PPT003-手绘风：
+
+![](./2022-style/images/PPT003.png)
+
+##### PPT004-交大建筑：
+
+![](./2022-style/images/PPT004.png)
