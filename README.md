@@ -1,7 +1,7 @@
-# BJTU专属PPT
+# 北京交通大学幻灯片模板
 
 #### 介绍
-BJTU专属PPT模板，仅供学习使用，禁止用于商业用途。
+北京交通大学幻灯片模板，仅供学习使用，禁止用于商业用途。（Beijing Jiaotong University slide template, for learning purposes only, prohibited for commercial use.）
 
 #### 2021年风格
 
