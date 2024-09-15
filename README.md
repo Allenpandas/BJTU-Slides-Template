@@ -54,3 +54,23 @@ Beijing Jiaotong University slide templates, for learning purposes only, prohibi
 ##### PPT004-交大建筑：
 
 ![](./2022-style/images/PPT004.png)
+
+
+#### 2023年风格
+
+##### PPT001-红色系：
+
+![](./2023-style/images/PPT001.png)
+
+##### PPT002-黄色系：
+
+![](./2023-style/images/PPT002.png)
+
+##### PPT003-蓝色系：
+
+![](./2023-style/images/PPT003.png)
+
+##### PPT004-绿色系：
+
+![](./2023-style/images/PPT004.png)
+
