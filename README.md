@@ -6,7 +6,7 @@ Beijing Jiaotong University slide templates, for learning purposes only, prohibi
 - [2021年风格](#2021年风格)
 - [2022年风格](#2022年风格)
 - [2023年风格](#2023年风格)
-- [2024年风格](#2024年风格)
+- 2024年风格
 
 ## 2021年风格
 
