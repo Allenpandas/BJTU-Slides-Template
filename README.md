@@ -44,38 +44,38 @@ Beijing Jiaotong University slide templates, for learning purposes only, prohibi
 
 ## 2022年风格
 
-##### PPT001-红色系：
+**PPT001-红色系：** [点击查看](./2022-style/PPT001-红色系.pptx)
 
 ![](./2022-style/images/PPT001.png)
 
-##### PPT002-小动物：
+**PPT002-小动物：** [点击查看](./2022-style/PPT002-小动物.pptx)
 
 ![](./2022-style/images/PPT002.png)
 
-##### PPT003-手绘风：
+**PPT003-手绘风：** [点击查看](./2022-style/PPT003-手绘风.pptx)
 
 ![](./2022-style/images/PPT003.png)
 
-##### PPT004-交大建筑：
+**PPT004-交大建筑：** [点击查看](./2022-style/PPT004-交大建筑.pptx)
 
 ![](./2022-style/images/PPT004.png)
 
 
 ## 2023年风格
 
-##### PPT001-红色系：
+**PPT001-红色系：** [点击查看](./2023-style/PPT001-红色系.pptx)
 
 ![](./2023-style/images/PPT001.png)
 
-##### PPT002-黄色系：
+**PPT002-黄色系：** [点击查看](./2023-style/PPT002-黄色系.pptx)
 
 ![](./2023-style/images/PPT002.png)
 
-##### PPT003-蓝色系：
+**PPT003-蓝色系：** [点击查看](./2023-style/PPT003-蓝色系.pptx)
 
 ![](./2023-style/images/PPT003.png)
 
-##### PPT004-绿色系：
+**PPT004-绿色系：** [点击查看](./2023-style/PPT004-绿色系.pptx)
 
 ![](./2023-style/images/PPT004.png)
 
