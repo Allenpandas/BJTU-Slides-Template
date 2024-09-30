@@ -10,21 +10,21 @@ Beijing Jiaotong University slide templates, for learning purposes only, prohibi
 
 ## 2021年风格
 
-##### PPT001：
+##### PPT001： [点击下载](./2021-style/PPT001.pptx)
 
 ![](./2021-style/images/PPT001.png)
 
 
 
-##### PPT002：
+##### PPT002： [点击下载](./2021-style/PPT002.pptx)
 
 ![](./2021-style/images/PPT002.png)
 
-##### PPT003：
+##### PPT003： [点击下载](./2021-style/PPT003.pptx)
 
 ![](./2021-style/images/PPT003.png)
 
-##### PPT004：
+##### PPT004： [点击下载](./2021-style/PPT004.pptx)
 
 ![](./2021-style/images/PPT004.png)
 
