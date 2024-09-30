@@ -1,9 +1,8 @@
 # 北京交通大学幻灯片模板
 
-#### 介绍
 Beijing Jiaotong University slide templates, for learning purposes only, prohibited for commercial use. | 北京交通大学幻灯片模板，仅供学习使用，禁止用于商业用途。
 
-#### 2021年风格
+## 2021年风格
 
 ##### PPT001：
 
@@ -37,7 +36,7 @@ Beijing Jiaotong University slide templates, for learning purposes only, prohibi
 
 
 
-#### 2022年风格
+## 2022年风格
 
 ##### PPT001-红色系：
 
@@ -56,7 +55,7 @@ Beijing Jiaotong University slide templates, for learning purposes only, prohibi
 ![](./2022-style/images/PPT004.png)
 
 
-#### 2023年风格
+## 2023年风格
 
 ##### PPT001-红色系：
 
