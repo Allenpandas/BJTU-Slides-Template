@@ -3,8 +3,10 @@
 Beijing Jiaotong University slide templates, for learning purposes only, prohibited for commercial use. | 北京交通大学幻灯片模板，仅供学习使用，禁止用于商业用途。
 
 ## 目录
-- [2021年风格](./2021-style)
-- 
+- [2021年风格](#2021年风格)
+- [2022年风格](#2022年风格)
+- [2023年风格](#2023年风格)
+- [2024年风格](#2024年风格)
 
 ## 2021年风格
 
